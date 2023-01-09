@@ -1,0 +1,197 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  text-align: center;
+  background-color: rgba(99, 140, 170, 255);
+  padding-left: 0px;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+ol {
+  margin-top: 0;
+}
+
+div {
+  margin: 0;
+  width: 100%;
+}
+
+.c-blue {
+  background-color: rgba(99, 140, 170, 255);
+}
+
+.c-lgrey {
+  background-color: rgba(219, 219, 219, 255);
+}
+
+.c-sgrey {
+  background-color: rgba(188, 185, 170, 255);
+}
+
+.c-turquoise {
+  background-color: rgba(156, 224, 209, 255);
+}
+
+.c-dgrey {
+  background-color: rgba(154, 167, 184, 255);
+}
+
+.c-redorange {
+  background-color: rgba(240, 158, 132, 255);
+}
+
+.c-footer {
+  background-color: rgba(81, 67, 84, 255);
+}
+
+.c-lightgrey {
+  background-color: rgba(183, 206, 214, 255);
+}
+
+.applelogo {
+  width: 40px;
+}
+
+.devphoto {
+  width: 300px;
+  padding-top: 30px;
+}
+
+div {
+  margin: 0;
+}
+
+.appledevices {
+  width: 700px;
+  margin-top: 100px;
+  margin-bottom: 15px;
+}
+
+.navbar {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  position: absolute;
+  top: 30px;
+  right: 150px;
+  text-decoration: none;
+}
+
+h1 {
+  position: absolute;
+  top: 5px;
+  left: 150px;
+}
+
+.relativPosition {
+  position: relative;
+}
+
+div ul li {
+  font-size: 15px;
+  display: inline-block;
+  padding: 15px;
+}
+
+.w25 {
+  float: left;
+  width: 25%;
+}
+
+.w50 {
+  float: left;
+  width: 50%;
+}
+
+.w33 {
+  float: left;
+  width: 33.333%;
+}
+
+.addminheight {
+  min-height: 350px;
+}
+
+.addBoldText {
+  font-weight: 900;
+}
+
+footer {
+  padding: 30px;
+}
+
+.textcolorwhite {
+  color: rgb(255, 255, 255);
+}
+
+.textarea1 {
+  font-size: 25px;
+  text-align: justify;
+  text-indent: 20px;
+  padding: 30px 25px 0px 25px;
+}
+
+.textarea2 {
+  font-size: 15px;
+  padding-bottom: 25px;
+}
+
+.h3style {
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.h4style {
+  padding-top: 20px;
+  font-size: 35px;
+}
+
+.paddingtwidth {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 70px;
+}
+
+.iconstyle {
+  font-size: 40px;
+}
+
+.pading100 {
+  padding: 100px;
+}
+
+.padding30 {
+  padding: 30px;
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+a:link {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.navbar a:hover {
+  color: rgb(248, 204, 83);
+  text-decoration: underline rgb(253, 3, 3);
+}
+
+/* 
+neznam zoshto mi ja davase 40px padding od levo, shto reshavav prethodno za mentorskata pak imav 40px padding od levo */
+
+ul {
+  padding-left: 0px;
+}
